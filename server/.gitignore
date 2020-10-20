@@ -1,0 +1,11 @@
+node_modules
+database.sqlite
+
+uploads/**
+!uploads/.gitkeep
+.DS_Store
+
+.env
+ormconfig.json
+
+dist

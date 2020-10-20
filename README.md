@@ -1,6 +1,6 @@
 ![logo](https://github.com/jonathaalves/nlw-03/blob/master/.github/logo.svg)
 ---
-[Project](https://github.com/jonathaalves/nlw-03#computer-project) | [Technologies](https://github.com/jonathaalves/nlw-03#rocket-technologies) | [Accommodation](https://github.com/jonathaalves/nlw-03#globe-accommodation)
+[Project](https://github.com/jonathaalves/nlw-03#computer-project) | [Technologies](https://github.com/jonathaalves/nlw-03#rocket-technologies) | [Accommodation](https://github.com/jonathaalves/nlw-03#globe_with_meridians-accommodation)
 
 ![happy](https://github.com/jonathaalves/nlw-03/blob/master/.github/happy.png)
 
